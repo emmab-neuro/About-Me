@@ -9,3 +9,4 @@
    Cyan corresponds with cholinergic synaptic structures while gold depicts SMI-32 positive neurofilaments. The sample originated from the L3-4 region of a mouse spinal cord. Captured with the Zeiss LSM800 and processed using Airyscan software and FIJI. 0.5x crop area. Pixel size 35 nanometers.
 5. **"Psycholoquia"** is the PowerPoint I presented to the School of Psychology & Neuroscience.
 6. **"Demographic Narcolepsy Data Study"** was my very first Python project. Data was sourced from PubMed.
+7. **"Eur J of Neuroscience - 2025 - Ayvazian‐Hancock - Synaptopathy in the TDP‐43 NLS Mouse Model of Sporadic Amyotrophic.pdf"** is the paper I co-authored.
